@@ -1,6 +1,10 @@
 # 4x4-Bot
 4x4 Bot Version 1: Raspberry Pi 4, Arduino Uno. Remote Control
 
+![4x4](https://github.com/user-attachments/assets/bf4a8bd3-a988-45d5-861b-c058f777381e)
+
+
+
 Version 1: Remote Control version.
 
 - Raspberry Pi 4
