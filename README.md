@@ -15,3 +15,5 @@ Version 1: Remote Control version.
 - 3.7V 2000mAh Battery for Raspberry Pi
 - Adafruit powerboost module
 - 4x4 Chassie
+- PS4 Controller
+
